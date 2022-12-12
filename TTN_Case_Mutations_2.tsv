@@ -1,0 +1,39 @@
+Case UUID	Case ID	# Mutations	Primary Site	Gender	# Genes	Slides	Age at diagnosis	Days to death	Vital Status	Primary Diagnosis
+cf67eaf8-f5e6-41be-8992-cdb97091e1b0	TCGA-B0-5096	3	Kidney	Female	1	4	72 years 276 days	68 days	Dead	Clear cell adenocarcinoma, NOS
+c499b3be-9db0-4809-b7c0-f5d81208d7ec	TCGA-BP-5173	1	Kidney	Male	1	4	75 years 43 days	62 days	Dead	Clear cell adenocarcinoma, NOS
+45da55a6-aa58-49af-9a28-95b8ca2d4614	TCGA-5P-A9JY	1	Kidney	Male	1	2	79 years 27 days	4 years 47 days	Dead	Papillary adenocarcinoma, NOS
+1db41963-a520-47f0-828c-ed5c626507b1	TCGA-IA-A40Y	1	Kidney	Female	1	2	60 years 81 days	--	Alive	Papillary adenocarcinoma, NOS
+0c139772-e303-45d1-b0c7-438fa1db105e	TCGA-A3-3311	1	Kidney	Male	1	5	57 years 364 days	3 years 96 days	Dead	Clear cell adenocarcinoma, NOS
+b6abbdcc-f826-499d-b6f1-f6e2c83f9d8b	TCGA-B0-5116	1	Kidney	Male	1	4	52 years 359 days	--	Alive	Clear cell adenocarcinoma, NOS
+e1663694-17dd-4b01-b613-2516e022dfb7	TCGA-A3-3382	1	Kidney	Male	1	5	69 years 5 days	--	Alive	Clear cell adenocarcinoma, NOS
+2a2f168c-f93a-4e83-8df2-93a3e7bc06a0	TCGA-BP-5000	1	Kidney	Male	1	4	40 years 258 days	--	Alive	Clear cell adenocarcinoma, NOS
+d51fa004-23e6-41a7-9237-ce9916e2e394	TCGA-B0-5092	1	Kidney	Female	1	4	53 years 253 days	1 year 94 days	Dead	Clear cell adenocarcinoma, NOS
+725802a7-d2cb-4c4a-b20e-980ca1056ada	TCGA-IA-A83S	1	Kidney	Male	1	3	81 years 92 days	7 years 53 days	Dead	Papillary adenocarcinoma, NOS
+0843841b-afab-4831-9084-a850db85287c	TCGA-A4-7584	1	Kidney	Male	1	3	59 years 233 days	--	Alive	Papillary adenocarcinoma, NOS
+e58f2c7b-d1cc-48f3-a0c9-dcd2b27c37f6	TCGA-B8-5552	1	Kidney	Female	1	4	41 years 244 days	--	Alive	Clear cell adenocarcinoma, NOS
+e8c22f36-20ad-469f-8eac-fb52d8b2cd5c	TCGA-EV-5902	1	Kidney	Male	1	3	58 years 160 days	--	Alive	Papillary adenocarcinoma, NOS
+23656226-2d99-4548-959f-5c2eed803e33	TCGA-KM-8438	1	Kidney	Female	1	2	45 years 247 days	--	Alive	Renal cell carcinoma, chromophobe type
+dc43cfe0-8880-419f-946c-c0ad586e57ca	TCGA-CZ-4859	1	Kidney	Female	1	5	59 years 293 days	--	Alive	Clear cell adenocarcinoma, NOS
+75f5983b-553b-4a96-8625-867885e83db4	TCGA-B1-A655	1	Kidney	Female	1	1	77 years 309 days	--	Alive	Papillary adenocarcinoma, NOS
+c5bf474c-6919-47b4-ba59-34ab20c087d5	TCGA-B0-5120	1	Kidney	Female	1	4	72 years 261 days	--	Alive	Clear cell adenocarcinoma, NOS
+55b8d871-dbff-4c4a-8f73-82565588c23f	TCGA-DW-5560	1	Kidney	Female	1	3	38 years 85 days	--	Alive	Papillary adenocarcinoma, NOS
+adc5e117-f01a-4e4b-bcb8-3d1a726b01a1	TCGA-DZ-6133	1	Kidney	Female	1	3	66 years 205 days	4 years 96 days	Dead	Papillary adenocarcinoma, NOS
+36182304-2db7-446a-929c-7e43a47d863a	TCGA-BQ-7056	1	Kidney	Female	1	4	75 years 74 days	--	Alive	Papillary adenocarcinoma, NOS
+fcad8f85-0046-4fc9-9611-3bf8ac91e887	TCGA-A4-8630	1	Kidney	Female	1	2	59 years 335 days	--	Alive	Papillary adenocarcinoma, NOS
+fa55865d-65b7-4587-800e-17b6b7f77517	TCGA-SX-A71S	2	Kidney	Female	1	1	66 years 105 days	--	Alive	Papillary adenocarcinoma, NOS
+3ea341e3-868a-44f5-937f-e6a93b031544	TCGA-CJ-4882	1	Kidney	Male	1	4	57 years 255 days	--	Alive	Clear cell adenocarcinoma, NOS
+a904ce56-42e6-4e61-ab62-cdf8192afbb4	TCGA-UZ-A9PJ	1	Kidney	Male	1	2	78 years 1 day	2 years 67 days	Dead	Papillary adenocarcinoma, NOS
+5e248b21-e69d-4dee-a1e8-029ade80d0eb	TCGA-CZ-5465	1	Kidney	Female	1	4	76 years 79 days	7 years 8 days	Dead	Clear cell adenocarcinoma, NOS
+d2664fde-ce3b-45e6-9a23-4a07980f7bac	TCGA-CJ-5677	1	Kidney	Female	1	4	54 years 126 days	2 years 52 days	Dead	Clear cell adenocarcinoma, NOS
+81bc5a6f-3584-486d-8a8f-d976dcb666ff	TCGA-4A-A93W	1	Kidney	Female	1	2	66 years 11 days	--	Alive	Papillary adenocarcinoma, NOS
+b3a9b0be-2ccb-4e55-b72c-3f218ca46a3e	TCGA-BP-4962	1	Kidney	Male	1	4	58 years 71 days	--	Alive	Clear cell adenocarcinoma, NOS
+fef57c51-0858-42fb-b9eb-3727d274a4e1	TCGA-DV-A4VZ	1	Kidney	Male	1	2	53 years 202 days	--	Alive	Clear cell adenocarcinoma, NOS
+86f68b7d-30f9-4f01-a9ea-5db1fcd00453	TCGA-CZ-4853	1	Kidney	Male	1	5	82 years 241 days	--	Alive	Clear cell adenocarcinoma, NOS
+9626e62f-f984-463a-8ef3-677489191864	TCGA-SX-A7SS	1	Kidney	Male	1	2	67 years 189 days	--	Alive	Papillary adenocarcinoma, NOS
+3cbca837-f5a7-4a87-8f02-c59eac232d5a	TCGA-A3-3308	2	Kidney	Female	1	5	77 years 163 days	--	Alive	Clear cell adenocarcinoma, NOS
+466d039a-d4d3-4bf4-93a2-89039f397d0d	TCGA-GL-6846	1	Kidney	Male	1	3	52 years 19 days	--	Alive	Papillary adenocarcinoma, NOS
+91a605b2-929a-44ce-8522-2ff793ddf82f	TCGA-BQ-5882	1	Kidney	Male	1	4	54 years 319 days	1 year 293 days	Dead	Papillary adenocarcinoma, NOS
+33c09cd7-2ccc-4a69-b738-79dfd9aa149d	TCGA-5P-A9KE	1	Kidney	Male	1	2	70 years 238 days	--	Alive	Papillary adenocarcinoma, NOS
+514af471-31d2-43fa-88dc-8639a5e97181	TCGA-B0-5712	1	Kidney	Female	1	4	68 years 151 days	--	Alive	Clear cell adenocarcinoma, NOS
+366f39be-05ab-402b-9525-725e095de570	TCGA-F9-A7Q0	1	Kidney	Female	1	2	37 years 9 days	--	Alive	Papillary adenocarcinoma, NOS
+2429c7d4-ae27-432d-9adf-1c6d192bf13c	TCGA-AK-3444	1	Kidney	Female	1	4	80 years 277 days	--	Alive	Clear cell adenocarcinoma, NOS
